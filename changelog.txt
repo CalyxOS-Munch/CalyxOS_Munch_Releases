@@ -1,6 +1,8 @@
 • February Patch
 • Synced latest changes from upstream lineage ROM source
-• Switched to IMMENSITY-X back 
+• Switched back to immensity, valentine's edition
 • Implement Miui Camera
 • Enable some governors for testing purpose
+• KernelSU IMG available at support group
+• implement Signature spoofing from lineage4microg
 • 
