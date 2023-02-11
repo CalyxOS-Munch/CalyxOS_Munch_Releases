@@ -1,4 +1,4 @@
-![CalyxOS](https://github.com/CalyxOS-Munch/CalyxOS_Munch_Releases/raw/main/banner.jpg)
+![CalyxOS](https://github.com/CalyxOS-Munch/CalyxOS_Munch_Releases/raw/main/temp.jpg)
 
  ## Note !! -
 1. Firmware is built-in
