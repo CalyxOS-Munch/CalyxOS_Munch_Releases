@@ -1,4 +1,4 @@
-![LineageOS](https://github.com/Vinc2nt/LineageOS_Munch_Releases/raw/main/banner.jpg)
+![CalyxOS](https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/ybMJpyCDkvEwNiWGEXuHAfcP)
 
  ## Note !! -
 1. Firmware is built-in
