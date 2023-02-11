@@ -1,4 +1,4 @@
-![CalyxOS](https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/ybMJpyCDkvEwNiWGEXuHAfcP)
+![CalyxOS](https://github.com/CalyxOS-Munch/CalyxOS_Munch_Releases/raw/main/banner.jpg)
 
  ## Note !! -
 1. Firmware is built-in
